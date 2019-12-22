@@ -1,0 +1,1 @@
+A Simple Restaurant Management System.Where frontend and backend are implemented nicely.
